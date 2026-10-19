@@ -1,0 +1,10 @@
+target/
+uploads/
+node_modules/
+# gerado pelo "npm run build" do front-end
+src/main/resources/static/
+.idea/
+*.iml
+.vscode/
+.env
+*.log
